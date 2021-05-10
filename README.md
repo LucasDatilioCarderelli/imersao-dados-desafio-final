@@ -48,11 +48,16 @@ A ideia é fazer um estudo geral para identificar quais compostos e genes são o
 * [Expressão gênica: o caminho da informação biológica](https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view?usp=sharing)
 * [Aulas Imersão](https://github.com/LucasDatilioCarderelli/ImersaoDados3)
 
-** Vídeo **
+**Vídeo**
 
 <p align="center">
 <img src='https://github.com/LucasDatilioCarderelli/imersao-dados-desafio-final/blob/main/img/ImersaoDado3.ipynb%20-%20Colaboratory.gif'>
 </p>
+
+<br>
+    
+## [Veja o Projeto AQUI](https://colab.research.google.com/github/LucasDatilioCarderelli/imersao-dados-desafio-final/blob/main/ImersaoDado3.ipynb)
+
 
 <br>
 
